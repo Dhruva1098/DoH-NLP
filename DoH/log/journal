@@ -1,0 +1,11 @@
+d-1
+The books i decided to go with are: Kafka : letters to milena, the castle | Sylvia Plath : the Journals of Sylvia Plath 
+Also i would require books by writers who were not depressed -or- happy. I want books written as a diary or journals. But for now i am pretty much out of luck with what to choose. 
+
+Moreover, i simply cannot use a BOW model as this case requires context. A n-gram model would be nice but i still have no idea what 'n' would be.
+Also cleaning the data would again, be a challenge. As using stemming might hurt model. 
+ALSO- kafka wrote in german so books by him are translated. Sulvia plath however wrote in english so big relief. 
+
+I am open to ideas, also open to books i should take as + input. 
+
+
