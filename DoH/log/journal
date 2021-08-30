@@ -14,3 +14,6 @@ d-2
 Something i realised, a naive bayes model could be useful. either that or neural network. Because therotically it works on same principle as n-grams. Also, i have no idea what n shoudld be.
 I'll start from 2 and go to 5-6. That will probably increase complexity of my model, but i've got all the time in the world. 
 I'll also try to apple the BOW model if it works (i doubt tho), if it does, than thats really good for us. I'll also keep track of time taken by different n grams and how acceuracy scales with it. 
+
+problem_1: turns out doing n-grams might be a stupid idea (or excessive cleaning of text is required which might led me to loss of data), as i get trigrams like ('I','do',"n't") on the highest frequency whereas actual useful words are in the last. 
+i'll try cleaning the data excessively and then redoing it, nut this might led me loosing some useful information 
