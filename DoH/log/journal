@@ -9,3 +9,8 @@ ALSO- kafka wrote in german so books by him are translated. Sulvia plath however
 I am open to ideas, also open to books i should take as + input. 
 
 
+
+d-2
+Something i realised, a naive bayes model could be useful. either that or neural network. Because therotically it works on same principle as n-grams. Also, i have no idea what n shoudld be.
+I'll start from 2 and go to 5-6. That will probably increase complexity of my model, but i've got all the time in the world. 
+I'll also try to apple the BOW model if it works (i doubt tho), if it does, than thats really good for us. I'll also keep track of time taken by different n grams and how acceuracy scales with it. 
